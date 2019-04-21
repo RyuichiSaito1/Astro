@@ -18,7 +18,7 @@
 {"type":"Feature","properties":{"Century":1,"City":"Alexandria","Population":0.10},"geometry":{"type":"Point","coordinates":[29.950926, 31.223675]}},
 {"type":"Feature","properties":{"Century":1,"City":"Chengdu","Population":0.10},"geometry":{"type":"Point","coordinates":[104.075531, 30.647173]}},
 {"type":"Feature","properties":{"Century":1,"City":"Aleppo","Population":0.10},"geometry":{"type":"Point","coordinates":[37.152698, 36.199188]}},
-{"type":"Feature","properties":{"Century":1,"City":"Kāifēng","Population":0.20},"geometry":{"type":"Point","coordinates":[114.342216, 34.751170]}},
+{"type":"Feature","properties":{"Century":2,"City":"Kāifēng","Population":0.20},"geometry":{"type":"Point","coordinates":[114.342216, 34.751170]}},
 {"type":"Feature","properties":{"Century":2,"City":"Constantinopolis","Population":0.20},"geometry":{"type":"Point","coordinates":[28.983478, 41.043055]}},
 {"type":"Feature","properties":{"Century":2,"City":"Heiankyo","Population":0.18},"geometry":{"type":"Point","coordinates":[135.745922, 34.981733]}},
 {"type":"Feature","properties":{"Century":2,"City":"marrākish","Population":0.16},"geometry":{"type":"Point","coordinates":[-7.985531, 31.638077]}},
