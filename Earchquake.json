@@ -1,10 +1,11 @@
-{"type":"FeatureCollection","metadata":{"title":"City Population"},"features":[{"type":"Feature","properties":{"Century":0,"City":"Rome","Population":0.45},"geometry":{"type":"Point","coordinates":[41.909043, 12.534713]}},
-"type":"Feature","properties":{"Century":0,"City":"Luoyang","Population":0.42},"geometry":{"type":"Point","coordinates":[112.443799, 34.653570]}},
-"type":"Feature","properties":{"Century":0,"City":"Seleucia","Population":0.25},"geometry":{"type":"Point","coordinates":[44.583064,33.101764]}},
-"type":"Feature","properties":{"Century":0,"City":"Alexandria","Population":0.25},"geometry":{"type":"Point","coordinates":[29.950926, 31.223675]}},
-"type":"Feature","properties":{"Century":0,"City":"Antiochia","Population":0.15},"geometry":{"type":"Point","coordinates":[36.200855, 36.283742]}},
-"type":"Feature","properties":{"Century":0,"City":"Anuradhapura","Population":0.13},"geometry":{"type":"Point","coordinates":[80.402905, 8.333146]}},
-"type":"Feature","properties":{"Century":0,"City":"Peshawar","Population":0.12},"geometry":{"type":"Point","coordinates":[71.560124, 33.977089]}},
-"type":"Feature","properties":{"Century":0,"City":"Carthāgō","Population":0.10},"geometry":{"type":"Point","coordinates":[10.330781, 36.858878]}},
-"type":"Feature","properties":{"Century":0,"City":"Go","Population":0.10},"geometry":{"type":"Point","coordinates":[120.633184, 31.328662]}},
-"type":"Feature","properties":{"Century":0,"City":"Smyrna","Population":0.09},"geometry":{"type":"Point","coordinates":[27.095457, 38.399845]}}]}
+{"type":"FeatureCollection","metadata":{"title":"City Population"},"features":[{"type":"Feature","properties":{"Century":0,"City":"Rome","Population":0.45},"geometry":{"type":"Point","coordinates":[41.909043, 12.534713]},
+"type":"Feature","properties":{"Century":0,"City":"Luoyang","Population":0.42},"geometry":{"type":"Point","coordinates":[112.443799, 34.653570]},
+"type":"Feature","properties":{"Century":0,"City":"Seleucia","Population":0.25},"geometry":{"type":"Point","coordinates":[44.583064,33.101764]},
+"type":"Feature","properties":{"Century":0,"City":"Alexandria","Population":0.25},"geometry":{"type":"Point","coordinates":[29.950926, 31.223675]},
+"type":"Feature","properties":{"Century":0,"City":"Antiochia","Population":0.15},"geometry":{"type":"Point","coordinates":[36.200855, 36.283742]},
+"type":"Feature","properties":{"Century":0,"City":"Anuradhapura","Population":0.13},"geometry":{"type":"Point","coordinates":[80.402905, 8.333146]},
+"type":"Feature","properties":{"Century":0,"City":"Peshawar","Population":0.12},"geometry":{"type":"Point","coordinates":[71.560124, 33.977089]},
+"type":"Feature","properties":{"Century":0,"City":"Carthāgō","Population":0.10},"geometry":{"type":"Point","coordinates":[10.330781, 36.858878]},
+"type":"Feature","properties":{"Century":0,"City":"Go","Population":0.10},"geometry":{"type":"Point","coordinates":[120.633184, 31.328662]},
+"type":"Feature","properties":{"Century":0,"City":"Smyrna","Population":0.09},"geometry":{"type":"Point","coordinates":[27.095457, 38.399845]}
+]}}
