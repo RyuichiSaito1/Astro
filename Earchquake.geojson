@@ -38,5 +38,15 @@
 {"type":"Feature","properties":{"Century":3,"City":"Paris","Population":0.36},"geometry":{"type":"Point","coordinates":[2.354592, 48.845033]}},
 {"type":"Feature","properties":{"Century":3,"City":"Napoli","Population":0.35},"geometry":{"type":"Point","coordinates":[14.264804, 40.856475]}},
 {"type":"Feature","properties":{"Century":3,"City":"Cairo","Population":0.35},"geometry":{"type":"Point","coordinates":[31.241423, 30.041978]}},
-{"type":"Feature","properties":{"Century":3,"City":"Bijapur","Population":0.34},"geometry":{"type":"Point","coordinates":[75.708439, 16.827168]}}
+{"type":"Feature","properties":{"Century":3,"City":"Bijapur","Population":0.34},"geometry":{"type":"Point","coordinates":[75.708439, 16.827168]}},
+{"type":"Feature","properties":{"Century":4,"City":"Tokyo-Yokohama","Population":38.05},"geometry":{"type":"Point","coordinates":[139.750513, 35.684247]}},
+{"type":"Feature","properties":{"Century":4,"City":"Jakarta","Population":32.27},"geometry":{"type":"Point","coordinates":[106.833627, -6.183971]}},
+{"type":"Feature","properties":{"Century":4,"City":"Delhi","Population":27.28},"geometry":{"type":"Point","coordinates":[77.070026, 28.661560]}},
+{"type":"Feature","properties":{"Century":4,"City":"Manila","Population":24.65},"geometry":{"type":"Point","coordinates":[120.990816, 14.603666]}},
+{"type":"Feature","properties":{"Century":4,"City":"Seoul-Incheon","Population":24.21},"geometry":{"type":"Point","coordinates":[126.935916, 37.504024]}},
+{"type":"Feature","properties":{"Century":4,"City":"Shanghai","Population":24.11},"geometry":{"type":"Point","coordinates":[121.377578, 31.175316]}},
+{"type":"Feature","properties":{"Century":4,"City":"Mumbai","Population":23.26},"geometry":{"type":"Point","coordinates":[72.875733, 19.132119]}},
+{"type":"Feature","properties":{"Century":4,"City":"New York","Population":21.57},"geometry":{"type":"Point","coordinates":[-73.957843, 40.665513]}},
+{"type":"Feature","properties":{"Century":4,"City":"Beijing","Population":21.25},"geometry":{"type":"Point","coordinates":[116.364386, 39.909849]}},
+{"type":"Feature","properties":{"Century":4,"City":"Sao Paulo","Population":21.10},"geometry":{"type":"Point","coordinates":[-46.675043, -23.638009]}}
 ]}
