@@ -33,7 +33,7 @@
 {"type":"Feature","properties":{"Century":3,"City":"Istanbul","Population":0.50},"geometry":{"type":"Point","coordinates":[28.983478, 41.043055]}},
 {"type":"Feature","properties":{"Century":3,"City":"Agra","Population":0.47},"geometry":{"type":"Point","coordinates":[78.007148, 27.185898]}},
 {"type":"Feature","properties":{"Century":3,"City":"Osaka","Population":0.46},"geometry":{"type":"Point","coordinates":[135.490494, 34.678684]}},
-{"type":"Feature","properties":{"Century":3,"City":"Heiankyo","Population":0.41},"geometry":{"type":"Point","coordinates":[34.981733, 135.745922]}},
+{"type":"Feature","properties":{"Century":3,"City":"Heiankyo","Population":0.41},"geometry":{"type":"Point","coordinates":[135.745922, 34.981733]}},
 {"type":"Feature","properties":{"Century":3,"City":"Hangzhou","Population":0.39},"geometry":{"type":"Point","coordinates":[120.112299, 30.241751]}},
 {"type":"Feature","properties":{"Century":3,"City":"Paris","Population":0.36},"geometry":{"type":"Point","coordinates":[2.354592, 48.845033]}},
 {"type":"Feature","properties":{"Century":3,"City":"Napoli","Population":0.35},"geometry":{"type":"Point","coordinates":[14.264804, 40.856475]}},
