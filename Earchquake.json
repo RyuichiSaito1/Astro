@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","metadata":{"title":"City Population"},"features":[{"type":"Feature","properties":{"Century":17,"City":"New York","Population":6.3},"geometry":{"type":"Point","coordinates":[31.4606, 20.7927]}}]}
+{"type":"FeatureCollection","metadata":{"title":"City Population"},"features":[{"type":"Feature","properties":{"Century":0,"City":"New York","Population":6.3},"geometry":{"type":"Point","coordinates":[31.4606, 20.7927]}}]}
