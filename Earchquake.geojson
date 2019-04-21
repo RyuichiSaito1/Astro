@@ -18,5 +18,15 @@
 {"type":"Feature","properties":{"Century":1,"City":"Alexandria","Population":0.10},"geometry":{"type":"Point","coordinates":[29.950926, 31.223675]}},
 {"type":"Feature","properties":{"Century":1,"City":"Chengdu","Population":0.10},"geometry":{"type":"Point","coordinates":[104.075531, 30.647173]}},
 {"type":"Feature","properties":{"Century":1,"City":"Aleppo","Population":0.10},"geometry":{"type":"Point","coordinates":[37.152698, 36.199188]}},
-{"type":"Feature","properties":{"Century":1,"City":"Kanchipuram","Population":0.10},"geometry":{"type":"Point","coordinates":[79.710851, 12.827502]}}
+{"type":"Feature","properties":{"Century":1,"City":"Kāifēng","Population":0.20},"geometry":{"type":"Point","coordinates":[114.358002, 34.748896]}},
+{"type":"Feature","properties":{"Century":2,"City":"Constantinopolis","Population":0.20},"geometry":{"type":"Point","coordinates":[28.983478, 41.043055]}},
+{"type":"Feature","properties":{"Century":2,"City":"Heiankyo","Population":0.18},"geometry":{"type":"Point","coordinates":[135.745922, 34.981733]}},
+{"type":"Feature","properties":{"Century":2,"City":"marrākish","Population":0.16},"geometry":{"type":"Point","coordinates":[-7.985531, 31.638077]}},
+{"type":"Feature","properties":{"Century":2,"City":"Kalyan","Population":0.15},"geometry":{"type":"Point","coordinates":[73.135987, 19.246203]}},
+{"type":"Feature","properties":{"Century":2,"City":"Baghdad","Population":0.15},"geometry":{"type":"Point","coordinates":[44.346978, 33.312686]}},
+{"type":"Feature","properties":{"Century":2,"City":"Cairo","Population":0.15},"geometry":{"type":"Point","coordinates":[31.241423, 30.041978]}},
+{"type":"Feature","properties":{"Century":2,"City":"Encore","Population":0.15},"geometry":{"type":"Point","coordinates":[103.865580, 13.412167]}},
+{"type":"Feature","properties":{"Century":2,"City":"Fez","Population":0.15},"geometry":{"type":"Point","coordinates":[-5.012552, 34.035195]}},
+{"type":"Feature","properties":{"Century":2,"City":"Sevilla","Population":0.14},"geometry":{"type":"Point","coordinates":[-5.962944, 37.389248]}},
+{"type":"Feature","properties":{"Century":2,"City":"Thinis","Population":0.14},"geometry":{"type":"Point","coordinates":[31.889903, 26.343210]}}
 ]}
