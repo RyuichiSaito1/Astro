@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","metadata":{"title":"City Population"},"features":[
-{"type":"Feature","properties":{"Century":0,"City":"Rome","Population":0.45},"geometry":{"type":"Point","coordinates":[41.909043, 12.534713]}},
+{"type":"Feature","properties":{"Century":0,"City":"Rome","Population":0.45},"geometry":{"type":"Point","coordinates":[12.522541, 41.911334]}},
 {"type":"Feature","properties":{"Century":0,"City":"Luoyang","Population":0.42},"geometry":{"type":"Point","coordinates":[112.443799, 34.653570]}},
 {"type":"Feature","properties":{"Century":0,"City":"Seleucia","Population":0.25},"geometry":{"type":"Point","coordinates":[44.583064,33.101764]}},
 {"type":"Feature","properties":{"Century":0,"City":"Alexandria","Population":0.25},"geometry":{"type":"Point","coordinates":[29.950926, 31.223675]}},
@@ -8,5 +8,15 @@
 {"type":"Feature","properties":{"Century":0,"City":"Peshawar","Population":0.12},"geometry":{"type":"Point","coordinates":[71.560124, 33.977089]}},
 {"type":"Feature","properties":{"Century":0,"City":"Carthāgō","Population":0.10},"geometry":{"type":"Point","coordinates":[10.330781, 36.858878]}},
 {"type":"Feature","properties":{"Century":0,"City":"Go","Population":0.10},"geometry":{"type":"Point","coordinates":[120.633184, 31.328662]}},
-{"type":"Feature","properties":{"Century":0,"City":"Smyrna","Population":0.09},"geometry":{"type":"Point","coordinates":[27.095457, 38.399845]}}
+{"type":"Feature","properties":{"Century":0,"City":"Smyrna","Population":0.09},"geometry":{"type":"Point","coordinates":[27.095457, 38.399845]}},
+{"type":"Feature","properties":{"Century":1,"City":"Ctesiphon","Population":0.70},"geometry":{"type":"Point","coordinates":[44.580532, 33.093235]}},
+{"type":"Feature","properties":{"Century":1,"City":"Cháng'ān","Population":0.60},"geometry":{"type":"Point","coordinates":[108.949320, 34.249698]}},
+{"type":"Feature","properties":{"Century":1,"City":"Constantinopolis","Population":0.30},"geometry":{"type":"Point","coordinates":[28.983478, 41.043055]}},
+{"type":"Feature","properties":{"Century":1,"City":"Luoyang","Population":0.25},"geometry":{"type":"Point","coordinates":[112.443799, 34.653570]}},
+{"type":"Feature","properties":{"Century":1,"City":"Kannauj","Population":0.20},"geometry":{"type":"Point","coordinates":[79.916117, 27.042992]}},
+{"type":"Feature","properties":{"Century":1,"City":"Sri Kushetora","Population":0.70},"geometry":{"type":"Point","coordinates":[95.251143, 18.824403]}},
+{"type":"Feature","properties":{"Century":1,"City":"Alexandria","Population":0.10},"geometry":{"type":"Point","coordinates":[29.950926, 31.223675]}},
+{"type":"Feature","properties":{"Century":1,"City":"Chengdu","Population":0.10},"geometry":{"type":"Point","coordinates":[104.075531, 30.647173]}},
+{"type":"Feature","properties":{"Century":1,"City":"Aleppo","Population":0.10},"geometry":{"type":"Point","coordinates":[37.152698, 36.199188]}},
+{"type":"Feature","properties":{"Century":1,"City":"Kanchipuram","Population":0.10},"geometry":{"type":"Point","coordinates":[79.710851, 12.827502]}}
 ]}
