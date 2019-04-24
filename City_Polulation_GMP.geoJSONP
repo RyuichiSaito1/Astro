@@ -13,7 +13,7 @@ eqfeed_callback({"type":"FeatureCollection","metadata":{"title":"City Population
 {"type":"Feature","properties":{"Century":1,"City":"Cháng'ān","Population":0.60},"geometry":{"type":"Point","coordinates":[108.949320, 34.249698]}},
 {"type":"Feature","properties":{"Century":1,"City":"Constantinopolis","Population":0.30},"geometry":{"type":"Point","coordinates":[28.983478, 41.043055]}},
 {"type":"Feature","properties":{"Century":1,"City":"Luoyang","Population":0.25},"geometry":{"type":"Point","coordinates":[112.443799, 34.653570]}},
-eqfeed_callback({"type":"Feature","properties":{"Century":1,"City":"Kannauj","Population":0.20},"geometry":{"type":"Point","coordinates":[79.916117, 27.042992]}},
+{"type":"Feature","properties":{"Century":1,"City":"Kannauj","Population":0.20},"geometry":{"type":"Point","coordinates":[79.916117, 27.042992]}},
 {"type":"Feature","properties":{"Century":1,"City":"Sri Kushetora","Population":0.16},"geometry":{"type":"Point","coordinates":[95.251143, 18.824403]}},
 {"type":"Feature","properties":{"Century":1,"City":"Alexandria","Population":0.10},"geometry":{"type":"Point","coordinates":[29.950926, 31.223675]}},
 {"type":"Feature","properties":{"Century":1,"City":"Chengdu","Population":0.10},"geometry":{"type":"Point","coordinates":[104.075531, 30.647173]}},
