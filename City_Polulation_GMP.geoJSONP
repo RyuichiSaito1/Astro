@@ -1,7 +1,7 @@
 eqfeed_callback({"type":"FeatureCollection","metadata":{"title":"City Population"},"features":[
-{"type":"Feature","properties":{"Century":0,"City":"Rome","Population":0.45},"geometry":{"type":"Point","coordinates":[12.522541, 41.911334]}},
-{"type":"Feature","properties":{"Century":0,"City":"Luoyang","Population":0.42},"geometry":{"type":"Point","coordinates":[112.443799, 34.653570]}},
-{"type":"Feature","properties":{"Century":0,"City":"Seleucia","Population":0.25},"geometry":{"type":"Point","coordinates":[44.583064,33.101764]}},
+{"type":"Feature","properties":{"Century":0,"City":"Rome","Population":4.5},"geometry":{"type":"Point","coordinates":[12.522541, 41.911334]}},
+{"type":"Feature","properties":{"Century":0,"City":"Luoyang","Population":4.2},"geometry":{"type":"Point","coordinates":[112.443799, 34.653570]}},
+{"type":"Feature","properties":{"Century":0,"City":"Seleucia","Population":2.5},"geometry":{"type":"Point","coordinates":[44.583064,33.101764]}},
 {"type":"Feature","properties":{"Century":0,"City":"Alexandria","Population":0.25},"geometry":{"type":"Point","coordinates":[29.950926, 31.223675]}},
 {"type":"Feature","properties":{"Century":0,"City":"Antiochia","Population":0.15},"geometry":{"type":"Point","coordinates":[36.200855, 36.283742]}},
 {"type":"Feature","properties":{"Century":0,"City":"Anuradhapura","Population":0.13},"geometry":{"type":"Point","coordinates":[80.402905, 8.333146]}},
