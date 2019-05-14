@@ -68,5 +68,10 @@
 {"type":"Feature","properties":{"Century":4,"City":"Mumbai ","Population":23.26},"geometry":{"type":"Point","coordinates":[72.875733, 19.132119]}},
 {"type":"Feature","properties":{"Century":4,"City":"New York ","Population":21.57},"geometry":{"type":"Point","coordinates":[-73.957843, 40.665513]}},
 {"type":"Feature","properties":{"Century":4,"City":"Beijing ","Population":21.25},"geometry":{"type":"Point","coordinates":[116.364386, 39.909849]}},
-{"type":"Feature","properties":{"Century":4,"City":"Sao Paulo ","Population":21.10},"geometry":{"type":"Point","coordinates":[-46.675043, -23.638009]}}
+{"type":"Feature","properties":{"Century":4,"City":"Sao Paulo ","Population":21.10},"geometry":{"type":"Point","coordinates":[-46.675043, -23.638009]}},
+{"type":"Feature","properties":{"Century":4,"City":"Mexico City ","Population":20.57},"geometry":{"type":"Point","coordinates":[-99.156673, 19.375738]}},
+{"type":"Feature","properties":{"Century":4,"City":"Guangzhou-Foshan ","Population":19.97},"geometry":{"type":"Point","coordinates":[113.314564, 23.181772]}},
+{"type":"Feature","properties":{"Century":4,"City":"Dhaka ","Population":17.43},"geometry":{"type":"Point","coordinates":[90.430316, 23.782385]}},
+{"type":"Feature","properties":{"Century":4,"City":"Osaka-Kobe-Kyoto ","Population":17.17},"geometry":{"type":"Point","coordinates":[135.490494, 34.678684]}},
+{"type":"Feature","properties":{"Century":4,"City":"Moscow ","Population":16.86},"geometry":{"type":"Point","coordinates":[37.627446, 55.714806]}}
 ]}
